@@ -17,6 +17,30 @@
 
 - 📄 Know about my experiences [https://utneduec-my.sharepoint.com/:b:/g/personal/datrujillom_utn_edu_ec/EQ63QNAHgHlLkCxf5ezCgdoBNLwbDcY8qDvFx-Nhf0SzLg?e=xsaxXF](https://utneduec-my.sharepoint.com/:b:/g/personal/datrujillom_utn_edu_ec/EQ63QNAHgHlLkCxf5ezCgdoBNLwbDcY8qDvFx-Nhf0SzLg?e=xsaxXF)
 
+<h3>Public Projects</h3>
+
+- 🔐 **Eva Manager:** System for business security, inventory automation, and guard attendance management. Building with MariaDB, Blade and PHP.
+    - [Repo](https://github.com/DavidTrujillo123/Eva-Manager/tree/main)
+  
+- 🎓 **UTN - API:** Backend API-REST building with NodeJS - ExpressJS and Postgresql.
+    - [Website](https://api-utndb.vercel.app/)
+    - [Repo](https://github.com/DavidTrujillo123/API-utndb)
+
+- 🦠 **ProtoSoft:** Web application about Protist Kingdom. You can create an acount and up information of the Protist, even images. Frontend building with just HTML, CSS and JS. Backend API-REST building with NodeJS - ExpressJS and Postgresql.
+  - [Frontend](https://davidtrujillo123.github.io/protosoft_v1/html/home.html)
+      - [Repo](https://github.com/DavidTrujillo123/protosoft_v1)
+  - [Backend](https://protosoft-backend.vercel.app/)
+      - [Repo](https://github.com/DavidTrujillo123/protosoft-backend)
+- 🏎️ **Tesla Webiste copy** Frontend web page using HTML and CSS. It is a clone of Testa desktop web site.
+  -  [Website](https://davidtrujillo123.github.io/desktop-tesla-page/desktop-tesla-page.html)
+
+<h3 align="left">Volunteer</h3>
+
+- <a href="https://aenit.utn.edu.ec/2024/">International Congress of Applied Engineering and Innovative Technologies (AENIT 2024)</a>: This congress promoted the exchange of knowledge and technological advances held in Ibarra at the Technical university of North(UTN). My tasks were: creation of different components in the web page and administration in Wordpress.
+  
+- <a href="https://nasaspaceappsquito.com/home">Nasa Space Apps Quito</a>: The NASA International Space Applications Challenge is a NASA project to develop mobile applications and other inventions using data from the Universe. It was organized by San Francisco College(USFQ). I was part of the IT team and helped improve the website that was Building with Astro and Storyblok(CMS).
+  - [Repo](https://github.com/juanfcarrillo/spaceapps)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/david alexander trujillo montenegro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david alexander trujillo montenegro" height="30" width="40" /></a>
