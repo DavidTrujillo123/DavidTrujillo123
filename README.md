@@ -1,57 +1,67 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">An Software Engineering Student from Ecuador</h3>
+<h1 align="center">Hi 👋, I'm David Trujillo</h1>
+<h3 align="center">Software Engineer | Full Stack Engineer | Open Source Maintainer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidtrujillo123&label=Profile%20views&color=0e75b6&style=flat" alt="davidtrujillo123" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidtrujillo123" alt="davidtrujillo123" /></a> </p>
-
-- 🔭 I’m currently working on [Les't Travel - Web Page with CMS](https://www.letstravelecuador.com/)
-
-- 🌱 I’m currently learning **Astro, Vue, Angular, MongoDB, Supabase, Firebase, Design Patterns**
-
-- 👨‍💻 All of my projects are available at [https://github.com/DavidTrujillo123](https://github.com/DavidTrujillo123)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, JWT, Java, Object-Oriented Programming (OOP)**
-
-- 📫 How to reach me **davot098@gmail.com**
-
-- 📄 Know about my experiences [https://utneduec-my.sharepoint.com/:b:/g/personal/datrujillom_utn_edu_ec/EQ63QNAHgHlLkCxf5ezCgdoBNLwbDcY8qDvFx-Nhf0SzLg?e=xsaxXF](https://utneduec-my.sharepoint.com/:b:/g/personal/datrujillom_utn_edu_ec/EQ63QNAHgHlLkCxf5ezCgdoBNLwbDcY8qDvFx-Nhf0SzLg?e=xsaxXF)
-
-<h3>Public Projects</h3>
-
-- 🔐 **Eva Manager:** System for business security, inventory automation, and guard attendance management. Building with MariaDB, Blade and PHP.
-    - [Repo](https://github.com/DavidTrujillo123/Eva-Manager/tree/main)
-  
-- 🎓 **UTN - API:** Backend API-REST building with NodeJS - ExpressJS and Postgresql.
-    - [Website](https://api-utndb.vercel.app/)
-    - [Repo](https://github.com/DavidTrujillo123/API-utndb)
-
-- 🦠 **ProtoSoft:** Web application about Protist Kingdom. You can create an acount and up information of the Protist, even images. Frontend building with just HTML, CSS and JS. Backend API-REST building with NodeJS - ExpressJS and Postgresql.
-  - [Frontend](https://davidtrujillo123.github.io/protosoft_v1/html/home.html)
-      - [Repo](https://github.com/DavidTrujillo123/protosoft_v1)
-  - [Backend](https://protosoft-backend.vercel.app/)
-      - [Repo](https://github.com/DavidTrujillo123/protosoft-backend)
-- 🏎️ **Tesla Webiste copy** Frontend web page using HTML and CSS. It is a clone of Testa desktop web site.
-  -  [Website](https://davidtrujillo123.github.io/desktop-tesla-page/desktop-tesla-page.html)
-
-<h3 align="left">Volunteer</h3>
-
-- <a href="https://aenit.utn.edu.ec/2024/">International Congress of Applied Engineering and Innovative Technologies (AENIT 2024)</a>: This congress promoted the exchange of knowledge and technological advances held in Ibarra at the Technical university of North(UTN). My tasks were: creation of different components in the web page and administration in Wordpress.
-  
-- <a href="https://nasaspaceappsquito.com/home">Nasa Space Apps Quito</a>: The NASA International Space Applications Challenge is a NASA project to develop mobile applications and other inventions using data from the Universe. It was organized by San Francisco College(USFQ). I was part of the IT team and helped improve the website that was Building with Astro and Storyblok(CMS).
-  - [Repo](https://github.com/juanfcarrillo/spaceapps)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/david alexander trujillo montenegro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david alexander trujillo montenegro" height="30" width="40" /></a>
-<a href="https://fb.com/david alexander trujillo montenegro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="david alexander trujillo montenegro" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=davidtrujillo123&label=Profile%20views&color=0e75b6&style=flat-square" alt="davidtrujillo123" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidtrujillo123&show_icons=true&locale=en&layout=compact" alt="davidtrujillo123" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidtrujillo123&show_icons=true&locale=en" alt="davidtrujillo123" /></p>
+I am a **Software Engineer** from Ecuador, graduated in April 2026. I specialize in building robust backend architectures and high-impact FinTech solutions.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidtrujillo123&" alt="davidtrujillo123" /></p>
+- 🛠️ **Maintainer** at [**Good Systems SF**](https://goodsystemssf.com/).
+- 💼 **Full Stack Engineer** at **Innovation & Technology Services LLC**, leading the development of [**Utransfer**](https://www.utransfer.app/).
+- 🏗️ **Expertise:** Advanced backend architecture with **NestJS**, implementing **CQRS**, **Domain-Driven Design (DDD)**, and **Microservices**.
+- 📲 **Mobile Development:** Skilled in **React Native** and **Expo** using Clean Architecture.
+- 💳 **FinTech Integrations:** Experience with **PayPal (Vault, Payouts, Orders)** and **Braintree**.
+- 🔒 **Core Principle:** I strictly enforce type safety (**Strict TypeScript**) and never use the `any` type.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+| Area | Technologies |
+| :--- | :--- |
+| **Backend** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Mobile & Web** | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+
+---
+
+### 📊 Performance & Statistics
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidtrujillo123" alt="davidtrujillo123" /></a> </p>
+<div align="center">
+
+</div>
+
+<br />
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidtrujillo123&theme=radical&hide_border=true)](https://github.com/davidtrujillo123)
+
+</div>
+
+---
+
+### 💼 Professional Experience Highlights
+
+- **Utransfer (Full Stack Engineer):** Developing a global remittance platform with complex financial flows and KYC integration via Trulioo.
+- **Good Systems SF (Maintainer):** Focused on backend stability and high-performance API development with NestJS.
+- **UTN Móvil:** Developed the m-commerce module for the University's mobile platform.
+
+---
+
+### 📫 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/david-alexander-trujillo-montenegro/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  <a href="mailto:davot098@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+</p>
