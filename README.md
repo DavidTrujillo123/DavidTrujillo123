@@ -32,7 +32,10 @@ I am a **Software Engineer** from Ecuador, graduated in April 2026. I specialize
 
 ### 📊 Performance & Statistics
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidtrujillo123" alt="davidtrujillo123" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidtrujillo123&show_icons=true&locale=en&layout=compact" alt="davidtrujillo123" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidtrujillo123&show_icons=true&locale=en" alt="davidtrujillo123" /></p>
+
 <div align="center">
 
 </div>
