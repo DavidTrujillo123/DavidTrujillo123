@@ -66,14 +66,9 @@ Software Engineer from 🇪🇨 Ecuador. I build backend architectures and FinTe
 
 ---
 
-## GitHub Stats
+## Activity
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidTrujillo123&theme=github" alt="Profile details" />
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidTrujillo123&theme=github" alt="Repos per language" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DavidTrujillo123&theme=github" alt="Most commit language" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidTrujillo123&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
 
