@@ -70,12 +70,12 @@ Software Engineer from 🇪🇨 Ecuador. I build backend architectures and FinTe
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DavidTrujillo123&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidTrujillo123&layout=compact&hide_border=true&cache_seconds=86400" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidTrujillo123&theme=github" alt="Profile details" />
 
-<br /><br />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidTrujillo123&theme=github" alt="Repos per language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DavidTrujillo123&theme=github" alt="Most commit language" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidTrujillo123&theme=github-light&hide_border=true&area=true" alt="Activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidTrujillo123&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
 
 </div>
 
