@@ -1,9 +1,10 @@
 <div align="center">
 
 # David Trujillo
-### Software Engineer · Full Stack · Open Source Maintainer
 
-<img src="https://komarev.com/ghpvc/?username=davidtrujillo123&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+### Software Engineer · Full Stack · Backend & FinTech
+
+<img src="https://komarev.com/ghpvc/?username=DavidTrujillo123&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -11,13 +12,24 @@
 
 ## About Me
 
-Software Engineer from 🇪🇨 Ecuador, graduated April 2026. I specialize in robust backend architectures and high-impact FinTech solutions — with a hard rule: **no `any` in TypeScript. Ever.**
+Software Engineer from 🇪🇨 Ecuador. I build backend architectures and FinTech products — with a hard rule: **no `any` in TypeScript. Ever.**
 
-- 🛠️ **Maintainer** at [Good Systems SF](https://goodsystemssf.com/)
-- 💼 **Full Stack Engineer** at Innovation & Technology Services LLC — leading [Utransfer](https://www.utransfer.app/), a global remittance platform with KYC via Trulioo and complex financial flows
-- 🏗️ Backend architecture using **NestJS**, **CQRS**, **DDD**, and **Microservices**
+- 🛠️ **Developer & Maintainer** at [Good Systems SF](https://goodsystemssf.com/) — e-invoicing platform for Ecuador
+- 💼 Previously **Full Stack Engineer** at Innovation & Technology Services — [Utransfer](https://www.utransfer.app/), a global remittance platform with KYC via Trulioo
+- 🏗️ Backend architecture with **NestJS**, **CQRS**, **DDD**, and **event-driven microservices** (Kafka)
 - 📲 Mobile with **React Native** + **Expo** following Clean Architecture
-- 💳 FinTech integrations: **PayPal** (Vault, Payouts, Orders) and **Braintree**
+- 💳 FinTech integrations: built a **PayPal** payment microservice from scratch, plus **Trulioo** (KYC) and **LoopPay**
+- 🔐 Security-focused: JWT, access/refresh tokens, biometric auth, rate limiting, single-session with Redis
+
+---
+
+## What I've Shipped
+
+- Cut API response time **700ms → 300ms** and queries per request **5 → 1** through performance profiling
+- Detected and neutralized a production attack (**up to 25 req/s** to a nonexistent endpoint) down to **0**
+- Reduced deployment time **8 min → 1–2 min** with GitLab CI/CD pipelines
+- Found **4 critical security vulnerabilities** through internal QA and led the resulting security refactor
+- Cleaned up legacy code and endpoints across **11 modules**; redesigned **17 screens** of a production mobile app
 
 ---
 
@@ -28,21 +40,29 @@ Software Engineer from 🇪🇨 Ecuador, graduated April 2026. I specialize in r
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **Mobile & Web**
 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 
 **Infrastructure & Databases**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+**Testing**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Maestro](https://img.shields.io/badge/Maestro-6B4FBB?style=flat-square&logoColor=white)
 
 ---
 
@@ -50,14 +70,14 @@ Software Engineer from 🇪🇨 Ecuador, graduated April 2026. I specialize in r
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=davidtrujillo123&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidtrujillo123&layout=compact&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=DavidTrujillo123&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidTrujillo123&layout=compact&hide_border=true" alt="Top languages" />
 
-</div>
+<br />
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidtrujillo123&theme=default&hide_border=true)](https://github.com/davidtrujillo123)
+<a href="https://github.com/DavidTrujillo123">
+  <img src="https://streak-stats.demolab.com/?user=DavidTrujillo123&theme=default&hide_border=true" alt="GitHub streak" />
+</a>
 
 </div>
 
@@ -65,10 +85,18 @@ Software Engineer from 🇪🇨 Ecuador, graduated April 2026. I specialize in r
 
 ## Connect
 
-<a href="https://www.linkedin.com/in/david-alexander-trujillo-montenegro/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
+<div align="center">
+
+<a href="https://www.linkedin.com/in/david-alexander-trujillo-montenegro-a022b8270" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://porfolio-dev-drab.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="32" alt="Portfolio" />
 </a>
 &nbsp;
 <a href="mailto:davot098@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Gmail" />
 </a>
+
+</div>
